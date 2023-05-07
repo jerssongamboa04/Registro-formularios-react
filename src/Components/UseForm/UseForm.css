@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+
+.form-container {
+    color: white;
+    background-color: rgb(158, 158, 158);
+    margin: 50px;
+    border: solid 2px black;
+    padding: 20px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: start;
+    border-radius: 20px;
+}
+
+.container-genero {
+    display: flex;
+    gap: 8px;
+}
+
+.container-checkbox {
+    display: flex;
+    justify-content: center;
+    margin: 12px;
+    gap: 5px;
+}
+
+#submit {
+    margin-left: 250px;
+    padding: 10px;
+    width: 200px;
+    background-color: brown;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+label {
+    font-size: 20px;
+}

@@ -1,0 +1,46 @@
+.container-usuario-encontrado {
+
+    border-radius: 20px;
+    padding: 20px;
+    border: solid 2px black;
+    width: 300px;
+    color: white;
+    background-color: rgb(190, 122, 122);
+    text-align: justify;
+}
+
+.container-busqueda {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin: 15px;
+
+}
+
+.container-form {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-clear {
+
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    border: solid 2px black;
+    padding: 8px 15px;
+}
+
+.btn-enviar {
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    border: solid 2px black;
+    padding: 8px 15px;
+
+}

@@ -1,0 +1,17 @@
+.container-lista {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 10px;
+}
+
+.container-usuario-lista {
+
+    border-radius: 20px;
+    padding: 20px;
+    border: solid 2px black;
+    width: 300px;
+    color: white;
+    background-color: rgb(29, 114, 8);
+    text-align: justify;
+}

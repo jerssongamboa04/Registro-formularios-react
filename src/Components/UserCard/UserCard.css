@@ -1,0 +1,11 @@
+.container-usuario-card{
+
+    border-radius: 20px;
+    padding: 20px;
+    border: solid 2px black;
+    width: 300px;
+    color: white;
+    background-color: #D8BB65;
+    text-align: justify;
+
+}
